@@ -37,14 +37,27 @@ Digital Marketing Agency in Thrissur
 
 ## Project Structure
 
-SEO-Content-Generator/
+```text
+FUTURE_PE_03/
 │
 ├── README.md
-├── prompts/
-├── generated-content/
 ├── keyword-strategy.md
+│
+├── prompts/
+│   ├── pillar-blog-prompt.md
+│   ├── content-cluster-prompt.md
+│   └── local-seo-prompt.md
+│
+├── generated-content/
+│   ├── pillar-blog.md
+│   ├── supporting-blog-1.md
+│   ├── supporting-blog-2.md
+│   ├── supporting-blog-3.md
+│   ├── supporting-blog-4.md
+│   └── supporting-blog-5.md
+│
 └── screenshots/
-
+```
 ## Deliverables
 
 ### Pillar Blog
@@ -66,6 +79,18 @@ Best Digital Marketing Agency in Thrissur: Complete Guide to Growing Your Busine
 - Local SEO Adaptation
 - Internal Linking Suggestions
 - Reusable Prompt Framework
+
+## Results
+
+The AI-generated SEO content system successfully:
+
+- Created one pillar blog targeting a primary keyword
+- Generated five supporting blogs for content clustering
+- Developed a keyword strategy with search intent mapping
+- Implemented local SEO optimization for Thrissur-based businesses
+- Suggested internal linking opportunities to improve SEO performance
+
+This project demonstrates how Prompt Engineering can automate SEO content planning and creation for business websites.
 
 ## Author
 
